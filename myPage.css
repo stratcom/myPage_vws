@@ -1,0 +1,45 @@
+header {
+    width: 100%;
+		height: auto;
+    background-color: #DCDCDC;
+        }
+
+html, body {
+    width: 100%;
+    padding: 0;
+}  
+
+.hgroup {
+    width: :100%;
+}      
+
+#banner {
+    height: 80%;
+}
+
+#logo {
+    height: auto;
+    width: 40%;
+    max-width: 300px;
+    //min-width: 100px;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+}
+
+#bugHead {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    //padding-right: 5%;
+    line-height: 1.2em;
+    margin-top: -0.6em;
+    max-width: 50%;
+}
+
+/*nav {
+	position: absolute;
+  bottom: 0;
+  width: 100%;
+*/}
+
