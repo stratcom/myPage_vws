@@ -1,21 +1,21 @@
-header {
+/*header {
     width: 100%;
-		height: auto;
-    background-color: #DCDCDC;
-        }
+	height: auto;
+        }*/
 
-html, body {
+/*body {
     width: 100%;
     padding: 0;
-}  
+    overflow: hidden;
+}*/
 
-.hgroup {
+/*.hgroup {
     width: :100%;
-}      
+}*/      
 
-#banner {
+/*#banner {
     height: 80%;
-}
+}*/
 
 #logo {
     height: auto;
@@ -27,7 +27,7 @@ html, body {
     left: 5%;
 }
 
-#bugHead {
+/*#mainNav {
     position: absolute;
     right: 0;
     top: 50%;
@@ -35,11 +35,49 @@ html, body {
     line-height: 1.2em;
     margin-top: -0.6em;
     max-width: 50%;
-}
+}*/
+
+
+/*hgroup {
+    color: #66C266;
+
+}*/
 
 /*nav {
-	position: absolute;
-  bottom: 0;
-  width: 100%;
-*/}
+    position: absolute;
+    height: 20%;
+    //background-color: #99ADEB;
+	width: 100%;
+}*/
+
+/*#mainNav {
+    list-style-type: none;
+     color: #66C266;
+}*/
+
+/*.navButton {
+    float: left;
+    width: 13%
+    padding: text-align:center;
+}*/
+
+/*#mainNav first=child{
+}*/
+
+/*.navButtons {
+    text-decoration: none;
+    color: inherit;
+}*/
+
+/*.submenu {
+    display: none;
+}*/
+
+/*#myheader {
+     color: #66C266;
+}*/
+
+
+
+
 
